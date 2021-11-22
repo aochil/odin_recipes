@@ -1,0 +1,1 @@
+I will be using HTML and the skills I've learned from the Odin Project to create this project. 
